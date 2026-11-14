@@ -1,0 +1,40 @@
+{
+  "name": "TimiCal",
+  "identifier": "com.timicalapp.fuente",
+  "subtitle": "Fichajes, calendarios y horas",
+  "description": "Fuente de TimiCal para SideStore y AltStore. Añádela una vez y SideStore te avisará de cada versión nueva.",
+  "iconURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/icono.png",
+  "website": "https://github.com/timicalapp/TimiCal",
+  "tintColor": "#2E46D1",
+  "apps": [
+    {
+      "name": "TimiCal",
+      "bundleIdentifier": "PENDIENTE_BUNDLE_ID",
+      "developerName": "TimiCal",
+      "subtitle": "Fichajes, calendarios y horas",
+      "localizedDescription": "Ficha tu entrada y tu salida, compara tus horas con las previstas en tu calendario, controla días libres, avisos de descanso y genera informes en PDF. Tus datos se quedan en tu iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/icono.png",
+      "tintColor": "#2E46D1",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "PENDIENTE_VERSION",
+          "buildVersion": "PENDIENTE_BUILD",
+          "date": "2026-11-14",
+          "localizedDescription": "Primera versión publicada.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/vPENDIENTE_VERSION/TimiCal.ipa",
+          "size": 0,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsFullAccessUsageDescription": "Para leer tus calendarios de Trabajo, Vacaciones y Festivos y calcular tus horas.",
+          "NSFaceIDUsageDescription": "Para bloquear la app con Face ID si lo activas."
+        }
+      }
+    }
+  ],
+  "news": []
+}
