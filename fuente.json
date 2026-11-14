@@ -9,7 +9,7 @@
   "apps": [
     {
       "name": "TimiCal",
-      "bundleIdentifier": "PENDIENTE_BUNDLE_ID",
+      "bundleIdentifier": "com.timical.timicalapp",
       "developerName": "TimiCal",
       "subtitle": "Fichajes, calendarios y horas",
       "localizedDescription": "Ficha tu entrada y tu salida, compara tus horas con las previstas en tu calendario, controla días libres, avisos de descanso y genera informes en PDF. Tus datos se quedan en tu iPhone.",
@@ -18,11 +18,10 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "PENDIENTE_VERSION",
-          "buildVersion": "PENDIENTE_BUILD",
+          "version": "1.0",
           "date": "2026-11-14",
-          "localizedDescription": "Primera versión publicada.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/vPENDIENTE_VERSION/TimiCal.ipa",
+          "localizedDescription": "PENDIENTE: se rellena sola al publicar la primera Release.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.0/TimiCal.ipa",
           "size": 0,
           "minOSVersion": "17.0"
         }

@@ -37,3 +37,16 @@ automática.
 
 Desde la app: Ajustes > Acerca de TimiCal > Enviar una sugerencia /
 Informar de un error. O escribe a timicalapp@gmail.com.
+
+---
+
+## Para publicar una versión nueva (solo el autor)
+
+1. En Xcode, sube la **Version** (1.0 → 1.1…) y saca el `.ipa`.
+2. Aquí en GitHub: **Releases** > **Draft a new release**.
+3. **Tag**: `v` + la versión, por ejemplo `v1.1` (Create new tag).
+4. Título libre y, en la descripción, las novedades (salen en SideStore).
+5. Arrastra el archivo, llamado `TimiCal.ipa`, y pulsa **Publish release**.
+
+En un minuto `fuente.json` se actualiza solo (pestaña **Actions**) y
+SideStore avisará a todos.
