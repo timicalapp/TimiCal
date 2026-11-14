@@ -22,6 +22,13 @@ gratuito y firma la app con tu propio Apple ID (puedes usar uno secundario).
 3. Abre la fuente TimiCal e instala la app.
 4. Ábrela: un asistente te guía para elegir tus calendarios.
 
+### Con otras herramientas (AirSign, Sideloadly…)
+
+Si tu herramienta instala desde una dirección, usa esta. Siempre descarga
+la última versión:
+
+`https://github.com/timicalapp/TimiCal/releases/latest/download/TimiCal.ipa`
+
 ## Actualizaciones
 
 Cuando haya una versión nueva, SideStore la mostrará en **Mis apps** y la
