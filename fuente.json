@@ -19,10 +19,10 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-11-14",
-          "localizedDescription": "PENDIENTE: se rellena sola al publicar la primera Release.",
+          "date": "2026-11-15",
+          "localizedDescription": "Primera versión de TimiCal.\r\n\r\n- Fichar entrada y salida desde la app, Atajos, Siri o el botón de Acción.\r\n- Horas fichadas frente a las previstas en tu calendario de Trabajo (Overtime).\r\n- Resumen por mes, trimestre fiscal y año, con PDF.\r\n- Avisos de descanso: entre jornadas, horas al día, tiempo sin pausa y días seguidos.\r\n- Vacaciones, festivos y días libres.\r\n- Horas oficiales por código de pago.\r\n- Copias de seguridad automáticas. Tus datos se quedan en tu iPhone.",
           "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.0/TimiCal.ipa",
-          "size": 0,
+          "size": 1676961,
           "minOSVersion": "17.0"
         }
       ],
