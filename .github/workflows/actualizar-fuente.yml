@@ -9,6 +9,12 @@ on:
 permissions:
   contents: write
 
+# Al publicar, GitHub a veces lanza el proceso dos veces seguidas: así se
+# ejecutan de una en una y la segunda ve que ya está hecho.
+concurrency:
+  group: actualizar-fuente
+  cancel-in-progress: false
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
@@ -30,4 +36,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add fuente.json
           git commit -m "Fuente: versión ${{ github.event.release.tag_name }}"
+          git pull --rebase origin main
           git push
