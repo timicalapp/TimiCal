@@ -22,7 +22,7 @@
           "date": "2026-11-15",
           "localizedDescription": "Añadida función para leer calendario en PDF y añadir Vacaciones.\r\nAñadido posibilidad de elegir localidad para añadir festivos locales y tenerlos en cuenta para los días trabajados coincidentes con festivos.",
           "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2/TimiCal.ipa",
-          "size": 1874984,
+          "size": 1876648,
           "minOSVersion": "17.0"
         },
         {
