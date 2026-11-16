@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.3",
+          "date": "2026-11-16",
+          "localizedDescription": "- Lectura del PDF de vacaciones mejorada, con aviso para revisar la lista.\r\n- Se pueden añadir o quitar días a mano antes de importarlos.\r\n- Funciona en iPhones con iOS 17 o posterior.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.3/TimiCal.ipa",
+          "size": 1843499,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2.2",
           "date": "2026-11-16",
           "localizedDescription": "Mejoras al leer PFD",
