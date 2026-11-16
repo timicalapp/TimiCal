@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.2.1",
+          "date": "2026-11-16",
+          "localizedDescription": "Versión que trata de corregir los problemas de lectura de PDF para convertir en iCal.\r\nCorrección del icono de la app: ya aparece centrado.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.1/TimiCal.ipa",
+          "size": 1789826,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.2",
           "date": "2026-11-15",
           "localizedDescription": "Añadida función para leer calendario en PDF y añadir Vacaciones.\r\nAñadido posibilidad de elegir localidad para añadir festivos locales y tenerlos en cuenta para los días trabajados coincidentes con festivos.",
