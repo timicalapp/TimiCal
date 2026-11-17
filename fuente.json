@@ -54,7 +54,8 @@
         "entitlements": [],
         "privacy": {
           "NSCalendarsFullAccessUsageDescription": "Para leer tus calendarios de Trabajo, Vacaciones y Festivos y calcular tus horas.",
-          "NSFaceIDUsageDescription": "Para bloquear la app con Face ID si lo activas."
+          "NSFaceIDUsageDescription": "Para bloquear la app con Face ID si lo activas.",
+          "NSCameraUsageDescription": "Para escanear tu calendario de vacaciones en papel (opcional)."
         }
       }
     }
