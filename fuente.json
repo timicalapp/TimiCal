@@ -65,7 +65,35 @@
           "NSFaceIDUsageDescription": "Para bloquear la app con Face ID si lo activas.",
           "NSCameraUsageDescription": "Para escanear tu calendario de vacaciones en papel (opcional)."
         }
-      }
+      },
+      "screenshots": [
+        {
+          "imageURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/1-fichar.png",
+          "width": 402,
+          "height": 874
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/3-calendario.png",
+          "width": 402,
+          "height": 874
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/4-vacaciones.png",
+          "width": 402,
+          "height": 874
+        },
+        {
+          "imageURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/5-acerca.png",
+          "width": 402,
+          "height": 874
+        }
+      ],
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/1-fichar.png",
+        "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/3-calendario.png",
+        "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/4-vacaciones.png",
+        "https://raw.githubusercontent.com/timicalapp/TimiCal/main/capturas/5-acerca.png"
+      ]
     }
   ],
   "news": [
