@@ -26,14 +26,6 @@
           "minOSVersion": "17.0"
         },
         {
-          "version": "1.4",
-          "date": "2026-11-17",
-          "localizedDescription": "Mejoras en lectura de PDF con escaneo de imagen y posibilidad de seleccionar fotos de la fototeca.\r\nLecturas de PDF mejoradas.\r\nAñadidos más iconos para elegir.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.4/TimiCal.ipa",
-          "size": 2870743,
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.2.4",
           "date": "2026-11-16",
           "localizedDescription": "Añadida función perdida de fichar en Siri Shortcuts (Atajos de iOS)",
