@@ -1,8 +1,8 @@
 {
   "name": "TimiCal",
   "identifier": "com.timicalapp.fuente",
-  "subtitle": "Fichajes, calendarios y horas",
-  "description": "Fuente de TimiCal para SideStore y AltStore. Añádela una vez y SideStore te avisará de cada versión nueva.",
+  "subtitle": "Fichajes, horas y calendarios",
+  "description": "TimiCal es una app sencilla para controlar tu jornada: fichas entrada y salida, comparas lo fichado con tu calendario de trabajo y llevas la cuenta de vacaciones, festivos y días libres.\n\nSin cuentas, sin servidores y sin publicidad: todo se queda en tu iPhone.\n\nAñade esta fuente una vez y SideStore te avisará de cada versión nueva.",
   "iconURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/icono.png",
   "website": "https://github.com/timicalapp/TimiCal",
   "tintColor": "#2E46D1",
@@ -11,8 +11,8 @@
       "name": "TimiCal",
       "bundleIdentifier": "com.timical.timicalapp",
       "developerName": "TimiCal",
-      "subtitle": "Fichajes, calendarios y horas",
-      "localizedDescription": "Ficha tu entrada y tu salida, compara tus horas con las previstas en tu calendario, controla días libres, avisos de descanso y genera informes en PDF. Tus datos se quedan en tu iPhone.",
+      "subtitle": "Ficha, compara tus horas y planifica tus días libres",
+      "localizedDescription": "Ficha tu entrada y salida en un toque, desde la app, Atajos, Siri o el botón de Acción, y TimiCal hace las cuentas por ti.\n\n• Horas fichadas frente a las previstas en tu calendario de Trabajo (Overtime), día a día.\n• Resumen por mes, trimestre fiscal y año, con gráficas e informe en PDF.\n• Avisos de descanso: entre jornadas, horas al día, tiempo sin pausa y días seguidos.\n• Vacaciones, festivos de tu localidad y días libres, con lo que te queda por disfrutar.\n• Importa tu calendario de vacaciones desde el PDF de la empresa, una foto o un escaneo.\n• Horas oficiales por código de pago, comparadas con lo fichado.\n• Copias de seguridad automáticas, bloqueo con Face ID y varios iconos a elegir.\n\nPrivacidad: tus datos se guardan solo en tu iPhone. Sin cuentas, sin servidores y sin publicidad.",
       "iconURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/icono.png",
       "tintColor": "#2E46D1",
       "category": "utilities",
@@ -68,5 +68,20 @@
       }
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "Bienvenido a TimiCal",
+      "identifier": "bienvenida-timical",
+      "caption": "Ficha, compara tus horas con tu calendario y planifica tus días libres. Todo se queda en tu iPhone.",
+      "date": "2026-11-17",
+      "tintColor": "#2E46D1",
+      "imageURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/imagenes/noticia.png",
+      "appID": "com.timical.timicalapp",
+      "notify": false
+    }
+  ],
+  "headerURL": "https://raw.githubusercontent.com/timicalapp/TimiCal/main/imagenes/cabecera.png",
+  "featuredApps": [
+    "com.timical.timicalapp"
+  ]
 }
