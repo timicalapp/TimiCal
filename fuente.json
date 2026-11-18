@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.5.2",
+          "date": "2026-11-18",
+          "localizedDescription": "Barra de pestañas que se encoge al hacer scroll (se puede desactivar en Ajustes > Apariencia). Los avisos de borrar salen del propio botón. Fechas siempre en español.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5.2/TimiCal.ipa",
+          "size": 2887366,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5",
           "date": "2026-11-18",
           "localizedDescription": "Mejoras Liquid Glass",
