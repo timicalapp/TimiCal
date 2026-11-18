@@ -18,6 +18,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.5",
+          "date": "2026-11-18",
+          "localizedDescription": "Mejoras Liquid Glass",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5/TimiCal.ipa",
+          "size": 2923517,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "date": "2026-11-18",
           "localizedDescription": "Novedades Liquid Glass",
