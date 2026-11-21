@@ -74,6 +74,15 @@ Recuerda que con un Apple ID gratuito las apps caducan a los 7 días si
 SideStore no las renueva: ábrelo de vez en cuando o activa la renovación
 automática.
 
+## Aviso
+
+TimiCal es una app independiente y gratuita. **No está relacionada,
+patrocinada ni aprobada por ninguna empresa** ni por ningún sistema de
+control horario. Se ofrece **tal cual, sin ninguna garantía**: los cálculos
+son orientativos y lo que vale es lo que conste oficialmente en tu empresa.
+Quien la instala y la usa lo hace **bajo su propia responsabilidad**. La app
+no envía tus datos a ningún sitio.
+
 ## Sugerencias y errores
 
 Desde la app: Ajustes > Acerca de TimiCal > Enviar una sugerencia /
