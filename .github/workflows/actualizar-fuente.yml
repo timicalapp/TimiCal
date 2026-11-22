@@ -1,17 +1,20 @@
 name: Actualizar fuente
 
 # Cada vez que publicas, editas o borras una Release, pone fuente.json al
-# día. SideStore lo ve y avisa a todos de la actualización. Si la versión
-# de dentro del .ipa no coincide con la etiqueta, no la añade y sale en rojo.
+# día mirando TODAS las Releases. SideStore lo ve y avisa a todos de la
+# actualización. Las pre-releases (betas) nunca entran. Si la versión de
+# dentro del .ipa no coincide con la etiqueta, no la añade y sale en rojo.
+# También se puede lanzar a mano (Actions > Actualizar fuente > Run workflow).
 on:
   release:
     types: [published, edited, deleted]
+  workflow_dispatch:
 
 permissions:
   contents: write
 
-# Al publicar, GitHub a veces lanza el proceso dos veces seguidas: así se
-# ejecutan de una en una y la segunda ve que ya está hecho.
+# Se ejecutan de una en una. Como cada ejecución mira todas las Releases,
+# aunque GitHub salte alguna intermedia, la última deja la fuente bien.
 concurrency:
   group: actualizar-fuente
   cancel-in-progress: false
@@ -26,6 +29,8 @@ jobs:
 
       - name: Poner fuente.json al día
         id: fuente
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: python3 .github/scripts/actualizar_fuente.py
 
       - name: Guardar el cambio
@@ -37,7 +42,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add fuente.json
-          git commit -m "Fuente: ${{ github.event.action }} ${{ github.event.release.tag_name }}"
+          git commit -m "Fuente: ${{ github.event.action || 'manual' }} ${{ github.event.release.tag_name }}"
           git pull --rebase origin main
           git push
 
