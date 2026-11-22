@@ -26,54 +26,6 @@
           "minOSVersion": "17.0"
         },
         {
-          "version": "1.5",
-          "date": "2026-11-18",
-          "localizedDescription": "Mejoras Liquid Glass",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5/TimiCal.ipa",
-          "size": 2923517,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.4",
-          "date": "2026-11-18",
-          "localizedDescription": "Novedades Liquid Glass",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.4/TimiCal.ipa",
-          "size": 2880156,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.3",
-          "date": "2026-11-17",
-          "localizedDescription": "Mejoras en lectura de PDF con escaneo de imagen y posibilidad de seleccionar fotos de la fototeca.\r\nLecturas de PDF mejoradas.\r\nAñadidos más iconos para elegir.\r\nCorregido el formato de fecha",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.3/TimiCal.ipa",
-          "size": 2865372,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2.4",
-          "date": "2026-11-16",
-          "localizedDescription": "Añadida función perdida de fichar en Siri Shortcuts (Atajos de iOS)",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.4/TimiCal.ipa",
-          "size": 1845004,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2.3",
-          "date": "2026-11-16",
-          "localizedDescription": "- Lectura del PDF de vacaciones mejorada, con aviso para revisar la lista.\r\n- Se pueden añadir o quitar días a mano antes de importarlos.\r\n- Funciona en iPhones con iOS 17 o posterior.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.3/TimiCal.ipa",
-          "size": 1843499,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2.2",
-          "date": "2026-11-16",
-          "localizedDescription": "Mejoras al leer PFD",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.2/TimiCal.ipa",
-          "size": 1822089,
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.2.1",
           "date": "2026-11-16",
           "localizedDescription": "Versión que trata de corregir los problemas de lectura de PDF para convertir en iCal.\r\nCorrección del icono de la app: ya aparece centrado.",
