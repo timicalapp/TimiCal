@@ -18,11 +18,11 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.5.2",
-          "date": "2026-11-18",
-          "localizedDescription": "Barra de pestañas que se encoge al hacer scroll (se puede desactivar en Ajustes > Apariencia). Los avisos de borrar salen del propio botón. Fechas siempre en español.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5.2/TimiCal.ipa",
-          "size": 2887366,
+          "version": "1.5.3",
+          "date": "2026-11-22",
+          "localizedDescription": "• Copias de seguridad también en iCloud Drive.\n• Trimestres: la opción de calendario fiscal se llama ahora «Por semanas (52/53)». Los cálculos no cambian.\n• Códigos de pago: en Horas → Códigos de pago indicas cómo empiezan tus códigos y cuáles cuentan como horas reales. Si ya tenías datos, no tienes que hacer nada.\n• Nueva sección en Acerca de con el aviso de uso de la app.\n• El formato de horas de la pantalla Horas vuelve una vez a decimal; puedes cambiarlo de nuevo cuando quieras.",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5.3/TimiCal.ipa",
+          "size": 2919632,
           "minOSVersion": "17.0"
         },
         {
