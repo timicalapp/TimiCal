@@ -18,19 +18,11 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.5.3",
-          "date": "2026-11-22",
-          "localizedDescription": "• Copias de seguridad también en iCloud Drive.\n• Trimestres: la opción de calendario fiscal se llama ahora «Por semanas (52/53)». Los cálculos no cambian.\n• Códigos de pago: en Horas → Códigos de pago indicas cómo empiezan tus códigos y cuáles cuentan como horas reales. Si ya tenías datos, no tienes que hacer nada.\n• Nueva sección en Acerca de con el aviso de uso de la app.\n• El formato de horas de la pantalla Horas vuelve una vez a decimal; puedes cambiarlo de nuevo cuando quieras.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.5.3/TimiCal.ipa",
-          "size": 2919632,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.2.1",
-          "date": "2026-11-16",
-          "localizedDescription": "Versión que trata de corregir los problemas de lectura de PDF para convertir en iCal.\r\nCorrección del icono de la app: ya aparece centrado.",
-          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.2.1/TimiCal.ipa",
-          "size": 1789826,
+          "version": "1.6.0",
+          "date": "2026-11-24",
+          "localizedDescription": "• Nuevo planificador de vacaciones (Ajustes → «Planifica tus vacaciones», arriba del todo): marca tus semanas del año y ve al momento lo que te queda de vacaciones, festivos, permiso especial y fines de semana.\n• Normas como avisos: fechas con disponibilidad limitada, mínimos y máximos por tramo y meses permitidos. Se pueden leer de un PDF o de capturas, pegar desde el texto que te dé Siri, ChatGPT o Claude, importar en una plantilla o poner a mano.\n• Festivos de tu localidad y días sin cole de tu comunidad en el calendario del planificador.\n• Seguimiento de la propuesta (borrador, enviada, respondida), qué te han concedido o cambiado, PDF para entregar y paso de lo confirmado a tu calendario de Vacaciones.\n• La copia de seguridad incluye ahora también el planificador.\n• Ajustes → Datos más corto: las importaciones y la exportación en CSV están ahora en «Importar/exportar datos».",
+          "downloadURL": "https://github.com/timicalapp/TimiCal/releases/download/v1.6.0/TimiCal.ipa",
+          "size": 3475452,
           "minOSVersion": "17.0"
         }
       ],
